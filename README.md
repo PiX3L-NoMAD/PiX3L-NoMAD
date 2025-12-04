@@ -2,7 +2,7 @@
 
 Junior product engineer in London, working across the full stack with TypeScript, React/Next.js, Node and PostgreSQL.
 
-Film and acting background, so I think in scenes and user journeys, not just functions.
+Film background, so I think in scenes and user journeys, not just functions.
 
 ---
 
@@ -29,7 +29,7 @@ Film and acting background, so I think in scenes and user journeys, not just fun
 
 - **Frontend:** TypeScript, JavaScript, React, Next.js, Tailwind  
 - **Backend & data:** Node, Express, REST APIs, PostgreSQL, a bit of DynamoDB  
-- **Workflow:** Git/GitHub, Jest, Supertest, CI-ish habits from bootcamp (small commits, tests before bragging)
+- **Workflow:** Git/GitHub, Jest, Supertest, CI/CD
 
 ---
 
